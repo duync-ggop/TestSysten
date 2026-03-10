@@ -1,0 +1,6 @@
+@SWD_GroupProject_HostAddress = http://localhost:5054
+
+GET {{SWD_GroupProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
