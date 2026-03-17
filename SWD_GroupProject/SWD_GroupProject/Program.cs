@@ -17,7 +17,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+// nhom project 2 mon prn
 app.UseAuthorization();
 
 app.MapControllers();
